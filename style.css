@@ -1,0 +1,30 @@
+.navbar {
+    background-color: black;
+}
+.logo-principal {
+    margin-top: 27px;
+    margin-bottom: 27px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.quem-somos {
+    background-color: rgb(218, 216, 216);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.parceiros {
+    background-color: rgb(59, 59, 59);
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.servicos {
+    background-color: black;
+    color: blanchedalmond;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.bg-footer {
+    background-color: rgb(255, 255, 255);
+    margin-top:10px;
+}
